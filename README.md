@@ -2,7 +2,7 @@
 
 
 
-I implemented a number of networking techniques in an intermediate networking project that was based on a case study, including port security, port address translation, access control lists (ACL), subnetting, IP addressing, SSH,Open Shortest Path First(OSPF) and dynamic host configuration protocol (DHCP).  
+I implemented a number of networking techniques in an intermediate networking project that was based on a case study, including port security, port address translation, access control lists (ACL), subnetting, IP addressing, SSH, Open Shortest Path First(OSPF) and dynamic host configuration protocol (DHCP).  
 
 
 
@@ -49,7 +49,7 @@ Network Design and Implementation Requirements :
 
 
 
-2) Use a hierarchial model providing redundancy in the network.
+2) Use a hierarchical model providing redundancy in the network.
 
 
 
