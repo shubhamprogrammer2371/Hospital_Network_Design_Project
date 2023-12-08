@@ -7,6 +7,12 @@ I implemented a number of networking techniques in an intermediate networking pr
 
 
 
+Case Study :-
+
+
+
+
+
 Melbourne Health services is a well-established health provider in Australia, which offers health solutions and services to its clients. The institution operates in two locations within the same city, having the hospital headquarters 20km away from the branch hospital. Therefore, it has the following departments within its main headquartes Medical Lead Operation and Consultancy Services (MLOCS), Medical Emergency and Reporting (MER), Medical Records Management (MRM), Information Technology (IT) and Customer Service (CS). The branch hospital was designed to share the workloads with the headquarters hence it contains the following departments; Nurses and Surgery Operations (NSO), Hospital Labs (HL), Human Resources (HR), Marketing (MK) and Finance (FIN). Each location is also expected to have a Guest/Waiting Area (GWA) for patients or visitors.
 
 
@@ -163,6 +169,213 @@ Network Design and Implementation Requirements :
 
 
 20) Test communication, ensure everything configured is working as expected.
+
+
+
+Technologies Implemented :- 
+
+
+
+
+
+1. Creating a network topology using Cisco Packet Tracer.
+
+
+
+
+
+
+2. Hierarchical Network Design.
+
+
+
+
+
+
+
+3. Connecting Networking devices with Correct cabling.
+
+
+
+
+
+
+
+4. Configuring Basic device settings.
+
+
+
+
+
+
+
+5. Creating VLANs and assigning ports VLAN numbers.
+
+
+
+
+
+
+6. Subnetting and IP Addressing.
+
+
+
+
+
+
+7. Configuring Inter-VLAN Routing on the Multilayer switches (Switch Virtual Interface).
+
+
+
+
+
+
+
+8. Configuring Dedicated DHCP Server device to provide dynamic IP allocation.
+
+
+
+
+
+
+
+
+
+9. Configuring SSH for secure Remote access.
+
+
+
+
+
+
+
+
+
+
+
+10. Configuring OSPF as the routing protocol.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Configuring NAT Overload(Port Address Translation PAT).
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Configuring Site-to-Site IPsec VPN.
+
+
+
+
+
+
+
+
+
+
+
+13. Configuring standard and extended Access Control Lists ACL.
+
+
+
+
+
+
+
+
+
+
+14. Configuring switchport security or Port-Security on the switches.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. Configuring WLAN or wireless network (Cisco Access Point).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. Host Device Configurations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17. Configuring ISP routers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. Test and Verifying Network Communication.
+
+
+
+
+
 
 
 Video Demonstration :- https://drive.google.com/file/d/1YJBl5USRZ7XbYwm3_vqVgPTEU4sxB8un/view?usp=sharing
